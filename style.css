@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+.heading {
+    text-align: center;
+    padding: 50px 0;
+    background-color: gray;
+}
+.contact {
+    padding: 50px;
+    width: 30px;
+}
+.work {
+    padding: 50px;
+    width: 70px;
+    float: left;
+}
+table {
+    border-collapse: collapse;
+}
+
